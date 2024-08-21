@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/MusicPlaylist-ReactJS/static/css/main.6cc92730.chunk.css",
+    "main.js": "/MusicPlaylist-ReactJS/static/js/main.df32fda1.chunk.js",
+    "main.js.map": "/MusicPlaylist-ReactJS/static/js/main.df32fda1.chunk.js.map",
+    "runtime-main.js": "/MusicPlaylist-ReactJS/static/js/runtime-main.e93c2d0f.js",
+    "runtime-main.js.map": "/MusicPlaylist-ReactJS/static/js/runtime-main.e93c2d0f.js.map",
+    "static/js/2.dca949e9.chunk.js": "/MusicPlaylist-ReactJS/static/js/2.dca949e9.chunk.js",
+    "static/js/2.dca949e9.chunk.js.map": "/MusicPlaylist-ReactJS/static/js/2.dca949e9.chunk.js.map",
+    "index.html": "/MusicPlaylist-ReactJS/index.html",
+    "static/css/main.6cc92730.chunk.css.map": "/MusicPlaylist-ReactJS/static/css/main.6cc92730.chunk.css.map",
+    "static/js/2.dca949e9.chunk.js.LICENSE.txt": "/MusicPlaylist-ReactJS/static/js/2.dca949e9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e93c2d0f.js",
+    "static/js/2.dca949e9.chunk.js",
+    "static/css/main.6cc92730.chunk.css",
+    "static/js/main.df32fda1.chunk.js"
+  ]
+}
