@@ -1,0 +1,35 @@
+.li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 20px;
+  padding: 20px;
+  color: white;
+  font-weight: 500;
+}
+
+.img {
+  width: 200px;
+  margin-right: 20px;
+}
+
+.li-2 {
+  display: flex;
+  align-items: center;
+}
+
+.p1 {
+  font-size: 24px;
+}
+
+.p2 {
+  color: #3b82f6;
+}
+
+.btn {
+  font-size: 22px;
+  border: 0;
+  color: white;
+  background-color: transparent;
+  padding: 10px;
+}
